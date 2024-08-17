@@ -29,7 +29,7 @@ We currently need contributors. DM [@luohoa97](https://discord.com/users/1039999
 
 ## Scam alerts
 
-We'd never ask for donations. If Flux is asking for donations, it's most likely a scam. Please watch out for these messages. Thank you
-https://github.com/luohoa97/FLUXLANG is the only official repo. If someone disguised as FLUX is telling you to download something that is not from that url, it is 100% malicious.
+- We'd never ask for donations. If Flux is asking for donations, it's most likely a scam. Please watch out for these messages. Thank you
+- https://github.com/luohoa97/FLUXLANG is the only official repo. If someone disguised as FLUX is telling you to download something that is not from that url, it is 100% malicious.
 
 The FLUX team 2024
