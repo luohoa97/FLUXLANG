@@ -27,7 +27,7 @@ We plan on making the best updates both for beginners and experts.
 
 We use GO to build our programming language currently.
 If there's currently no source code on the latest branch, it is most likely that I'm still working on that release.
-We currently need contributors. DM [@luohoa97](https://discord.com/users/1039999879893749821) on Discord if you want to contribute!
+We currently need contributors. DM [@luohoa97](https://discord.com/users/1039999879893749821) on Discord or join [Our official discord server](https://discord.gg/qm62uARUn6) and open a ticket if you want to contribute!
 
 ## Scam alerts
 
