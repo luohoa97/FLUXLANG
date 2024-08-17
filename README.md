@@ -1,5 +1,5 @@
 # FLUXLANG
-A lightweight easy to understand programming language like LUA but compiled, It's seamless nature makes it like an interpreted language.
+A lightweight easy to understand programming language like LUA but compiled, It's seamless nature makes it like an interpreted language. It is memory safe like rust without strict borrowing rules.
 
 ## Syntax
 
