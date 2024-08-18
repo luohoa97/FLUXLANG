@@ -1,4 +1,4 @@
-### Go to [PWIN package](https://github.com/luohoa97/PWIN-package-repo/FLUX)
+### Go to [PWIN package](https://github.com/luohoa97/PWIN-package-repo/FLOW)
 
 ### Download binaries win32:
-> PWIN add flow-compiler-win32
+> PWIN add FLOW
